@@ -2,7 +2,7 @@
 
 TABLE OF CONTENTS:
 
-1. Nueral Networks and Deep Learning
+1. Neural Networks and Deep Learning
   
     Assignments
    
