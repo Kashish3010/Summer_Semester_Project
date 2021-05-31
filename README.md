@@ -1,5 +1,9 @@
 # Summer_Semester_Project
 
-Nueral Networks and Deep Learning
+ASSIGNMENTS:
 
-Introduction to Reinforcement Learning
+1. Nueral Networks and Deep Learning
+   Assignments
+   
+2. Introduction to Reinforcment Learning
+   Assignments   
