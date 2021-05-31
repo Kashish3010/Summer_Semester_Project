@@ -1,6 +1,6 @@
 # Summer_Semester_Project
 
-ASSIGNMENTS:
+TABLE OF CONTENTS:
 
 1. Nueral Networks and Deep Learning
   
