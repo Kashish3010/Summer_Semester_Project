@@ -3,7 +3,9 @@
 ASSIGNMENTS:
 
 1. Nueral Networks and Deep Learning
-   Assignments
+  
+  Assignments
    
 2. Introduction to Reinforcment Learning
+   
    Assignments   
